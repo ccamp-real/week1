@@ -8,7 +8,7 @@
 	* Moon
 * I am from [Buffalo, New York](http://www.buffalony.gov/)
 * I am somewhat a Jack of all trades
-* I really want to live in a ![schoolie conversion](https://i.pinimg.com/originals/18/69/54/186954349ca0414861e695148383dac3.jpg)
+* I really want to live in a ![schoolie conversion](https://i.pinimg.com/originals/18/69/54/186954349ca0414861e695148383dac3.jpg =100x200)
 
 #### **What I *_will_* Achieve** 
 1. I *will* become a fully capable web developer
