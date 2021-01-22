@@ -1,7 +1,7 @@
 # week 1
 # **Chantel Campise**
 
-#### A Few Things About Me
+#### **A Few Things About Me**
 * I am 24 years old
 * I have two amazing dogs:
 	* Jackson
