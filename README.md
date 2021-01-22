@@ -2,7 +2,7 @@
 # **Chantel Campise**
 
 #### **A Few Things About Me**
-* I am 24 years old
+* I am *_24_* years old
 * I have two amazing dogs:
 	* Jackson
 	* Moon
